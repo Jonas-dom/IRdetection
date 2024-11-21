@@ -1,0 +1,1 @@
+﻿D:\OpenCV\run\white\Project1\Project1\Project1.vcxproj(68,5): error MSB4019: 找不到导入的项目“D:\OpenCV\peizhi\opencvpeizhi\opencvpeizhi\opencv.props”。请确认 Import 声明“..\..\..\..\peizhi\opencvpeizhi\opencvpeizhi\opencv.props”中的表达式正确，且文件位于磁盘上。
