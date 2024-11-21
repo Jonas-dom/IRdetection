@@ -1,0 +1,23 @@
+﻿  cent.cpp
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,43): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,43): warning C4244:         with
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,43): warning C4244:         [
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,43): warning C4244:             _Tp=int
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,43): warning C4244:         ]
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,28): warning C4244:         with
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,28): warning C4244:         [
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,28): warning C4244:             _Tp=int
+D:\opencv\run\centroids\cent\cent\cent.cpp(694,28): warning C4244:         ]
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,43): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,43): warning C4244:         with
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,43): warning C4244:         [
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,43): warning C4244:             _Tp=int
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,43): warning C4244:         ]
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,28): warning C4244:         with
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,28): warning C4244:         [
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,28): warning C4244:             _Tp=int
+D:\opencv\run\centroids\cent\cent\cent.cpp(724,28): warning C4244:         ]
+D:\opencv\run\centroids\cent\cent\cent.cpp(744,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  cent.vcxproj -> D:\opencv\run\centroids\cent\x64\Debug\cent.exe
