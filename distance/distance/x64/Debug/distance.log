@@ -1,0 +1,3 @@
+﻿  distance.cpp
+D:\OpenCV\new\distance\distance\distance.cpp(76,122): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  distance.vcxproj -> D:\OpenCV\new\distance\x64\Debug\distance.exe
